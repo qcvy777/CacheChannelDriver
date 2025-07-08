@@ -1,4 +1,4 @@
-# CacheChannel
+# Cache-Channel Driver
 proof of concept implementation demonstrating cache based covert communication channels between usermode applications and  kernelmode.
 
 ## **Overview**
